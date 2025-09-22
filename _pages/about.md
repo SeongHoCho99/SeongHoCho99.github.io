@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Seongho Cho
-======
+**Seongho Cho**
+------
 - Ph.D Candate
 - Modeling & Simulation Lab.
 - Department of Industrial Engineering
@@ -17,16 +17,16 @@ Seongho Cho
 - ☎️. +82) 31-219-3327
 - 📱. +82) 10-4333-6345
 
-Education
-======
+**Education**
+------
 - M.S. in Industrial Engineering, Ajou University (2025)
 - B.S. in Industrial Engineering, Ajou University (2023)
 
-Awards
+**Awards**
 ------
 - Second Place (Silver Award), University/Research Institute Category, CDE DX Awards 2024
 
-Research Area
+**Research Area**
 ------
 - Digital Twin and Data Analytics
 - Simulation-Based Optimization and Validation
